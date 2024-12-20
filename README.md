@@ -1,4 +1,4 @@
-- Hi, I'm @thomiir - Baroană Alexandru-Cătălin
+- Hi, I'm @thomiir
 
 #  🙋 About me
 🎓 Currently, I am a student pursuing a bachelor's degree in Computer Science at Babeș-Bolyai University. 
