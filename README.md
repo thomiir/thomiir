@@ -3,11 +3,11 @@
 #  🙋 About me
 🎓 I am a student pursuing a bachelor's degree in Computer Science at Babeș-Bolyai University. 
 <br>
-✏️ Currently, I am working on a JavaFX application called <a href=https://github.com/thomiir/NeighbourLink>NeighourLink</a>
+✏️ Currently, I am working on a JavaFX application called <a href=https://github.com/thomiir/NeighbourLink>NeighourLink</a>.
 <br>
-🔮 Portfolio samples showcasing my astrophotography work <a href=https://imgur.com/a/zAz6Wsx>Archive</a>&nbsp;(<i>for the astrophotography nerds, all photos were taken from a Bortle 8 Area, stacking was done using DeepSkyStacker and post-processing in PixInsight.</i>)
+🔮 <a href=https://imgur.com/a/zAz6Wsx>Portfolio</a> samples showcasing my astrophotography work. (<i>for the astrophotography nerds, all photos were taken from a Bortle 8 Area, stacking was done using DeepSkyStacker and post-processing in PixInsight)</i>)
 <br>
-📕 Won 2nd place in the 35th School districtual CCC 2021, 3rd place in the OSEPI districtual Contest 2021, 5th place in the Empowersoft National Contest 2021, participated in the National Informatics Olympiad 2018
+📕 Won 2nd place in the 35th School districtual CCC 2021, 3rd place in the OSEPI districtual Contest 2021, 5th place in the Empowersoft National Contest 2021, participated in the National Informatics Olympiad 2018.
 
 #  📄 Languages and Tools
 <div>
