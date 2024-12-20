@@ -5,6 +5,8 @@
 <br>
 🔮 During the pandemic, I took photos of some fascinating deep sky objects. <a href=https://imgur.com/a/zAz6Wsx>Archive</a>
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the astrophotography nerds, all photos were taken from a Bortle 8 Area, stacking was done using DeepSkyStacker and post-processing in PixInsight.
+<br>
+📕 Won 2nd place in the 35th School districtual CCC 2021, 3rd place in the OSEPI districtual Contest 2021, 5th place in the Empowersoft National Contest 2021, participated in the National Informatics Olympiad 2018
 
 #  📈 My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomiir&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
