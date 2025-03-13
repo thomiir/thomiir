@@ -3,7 +3,7 @@
 #  🙋 About me
 🎓 I am a student pursuing a bachelor's degree in Computer Science at Babeș-Bolyai University. 
 <br>
-✏️ Currently, I am working on a JavaFX application called <a href=https://github.com/thomiir/NeighbourLink>NeighbourLink</a>.
+✏️ Currently, I am working on a Spring/React application called <a href=https://github.com/thomiir/NeighbourLink>NeighbourLink</a>.The app saved here is still in Java/JavaFX, will update as soon as possible.
 <br>
 🔮 <a href=https://imgur.com/a/zAz6Wsx>Portfolio</a> samples showcasing my astrophotography work. (<i>for the astrophotography nerds, all photos were taken from a Bortle 8 Area, stacking was done using DeepSkyStacker and post-processing in PixInsight)</i>)
 <br>
